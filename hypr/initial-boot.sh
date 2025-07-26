@@ -9,13 +9,14 @@
 
 # Variables
 scriptsDir=$HOME/.config/hypr/scripts
-wallpaper=$HOME/.config/hypr/wallpaper_effects/.wallpaper_current
+wallpaper=$HOME/Wallpapers/.wallpaper_current
+#.config/hypr/wallpaper_effects/.wallpaper_current
 waybar_style="$HOME/.config/waybar/style/[Extra] Modern-Combined - Transparent.css"
-kvantum_theme="catppuccin-mocha-blue"
+kvantum_theme="daemon"
 color_scheme="prefer-dark"
-gtk_theme="Flat-Remix-GTK-Blue-Dark"
-icon_theme="Flat-Remix-Blue-Dark"
-cursor_theme="Bibata-Modern-Ice"
+gtk_theme="Sweet-v40"
+icon_theme="Colorful-Dark-Icons"
+cursor_theme="Breeze-Adapata-Cursor"
 
 swww="swww img"
 effect="--transition-bezier .43,1.19,1,.4 --transition-fps 30 --transition-type grow --transition-pos 0.925,0.977 --transition-duration 2"
